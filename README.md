@@ -1,2 +1,4 @@
-# BarnsleyFern
-Barnsley fern generation
+# Barnsley fern
+Barnsley fern generation project.
+
+![Demo](/Demo.png)
